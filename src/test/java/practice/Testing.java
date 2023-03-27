@@ -8,5 +8,7 @@ public class Testing {
 	public void Agaian()
 	{
 		System.out.println("Test Agaian");
+		
+		System.out.println("Test 2");
 	}
 }
